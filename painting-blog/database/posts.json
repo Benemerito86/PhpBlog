@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "title": "Atardecer en la Monta\u00f1a",
+        "slug": "atardecer-montana",
+        "content": "Hermoso atardecer.",
+        "excerpt": "Atardecer vibrante",
+        "image": "atardecer-montana.jpg",
+        "category_id": 1,
+        "user_id": 1,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 2,
+        "title": "Retrato Abstracto",
+        "slug": "retrato-abstracto",
+        "content": "Exploraci\u00f3n abstracta.",
+        "excerpt": "Retrato geom\u00e9trico",
+        "image": "retrato-abstracto.jpg",
+        "category_id": 2,
+        "user_id": 1,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 3,
+        "title": "Jard\u00edn de Primavera",
+        "slug": "jardin-primavera",
+        "content": "Acuarela delicada.",
+        "excerpt": "Jard\u00edn en acuarela",
+        "image": "jardin-primavera.jpg",
+        "category_id": 3,
+        "user_id": 1,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 4,
+        "title": "Paisaje Urbano",
+        "slug": "paisaje-urbano",
+        "content": "Arte digital.",
+        "excerpt": "Ciudad de noche",
+        "image": "urbano-nocturno.jpg",
+        "category_id": 4,
+        "user_id": 1,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 5,
+        "title": "Naturaleza Muerta",
+        "slug": "naturaleza-muerta",
+        "content": "Composici\u00f3n cl\u00e1sica.",
+        "excerpt": "Frutas y flores",
+        "image": "naturaleza-muerta.jpg",
+        "category_id": 5,
+        "user_id": 1,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 6,
+        "title": "Mar en Calma",
+        "slug": "mar-calma",
+        "content": "Serenidad del mar.",
+        "excerpt": "Mar sereno",
+        "image": "mar-calma.jpg",
+        "category_id": 1,
+        "user_id": 2,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 7,
+        "title": "Bosque Oto\u00f1al",
+        "slug": "bosque-otonal",
+        "content": "Colores c\u00e1lidos.",
+        "excerpt": "Bosque en oto\u00f1o",
+        "image": "bosque-otonal.jpg",
+        "category_id": 2,
+        "user_id": 2,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 8,
+        "title": "Flores Silvestres",
+        "slug": "flores-silvestres",
+        "content": "Flores del campo.",
+        "excerpt": "Flores delicadas",
+        "image": "flores-silvestres.jpg",
+        "category_id": 3,
+        "user_id": 2,
+        "status": "published",
+        "created_at": "2025-12-05 15:44:36"
+    }
+]

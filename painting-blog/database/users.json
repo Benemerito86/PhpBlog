@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "email": "admin@blog.com",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "role": "admin",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 2,
+        "username": "usuario",
+        "email": "user@blog.com",
+        "password": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC\/.og\/at2.uheWG\/igi",
+        "role": "user",
+        "created_at": "2025-12-05 15:44:36"
+    }
+]

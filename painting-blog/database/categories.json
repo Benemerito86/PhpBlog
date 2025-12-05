@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Acr\u00edlica",
+        "slug": "acrilica",
+        "description": "Pinturas acr\u00edlicas",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 2,
+        "name": "\u00d3leo",
+        "slug": "oleo",
+        "description": "Pinturas al \u00f3leo",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 3,
+        "name": "Acuarela",
+        "slug": "acuarela",
+        "description": "Acuarelas",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 4,
+        "name": "Digital",
+        "slug": "digital",
+        "description": "Arte digital",
+        "created_at": "2025-12-05 15:44:36"
+    },
+    {
+        "id": 5,
+        "name": "Pastel",
+        "slug": "pastel",
+        "description": "Pasteles",
+        "created_at": "2025-12-05 15:44:36"
+    }
+]
